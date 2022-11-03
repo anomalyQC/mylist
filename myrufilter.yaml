@@ -2,13 +2,14 @@
 # AUTHOR: anomalyqc
 # REPO: https://github.com/anomalyQC/mylist
 # UPDATED: 2022-11-03
-# TOTAL: 22
+# TOTAL: 24
 payload:
   - DOMAIN-KEYWORD,rutracker
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,lostfilm
   - DOMAIN-KEYWORD,kinozal
   - DOMAIN-KEYWORD,lordfilm
+  - DOMAIN-KEYWORD,flibusta
   - DOMAIN-SUFFIX,nnmclub.to
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,rarbggo.to
@@ -22,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,arhivach.ng
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,rule34.paheal.net
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN,download.lenovo.com
