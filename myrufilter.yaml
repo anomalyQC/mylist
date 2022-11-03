@@ -2,7 +2,7 @@
 # AUTHOR: anomalyqc
 # REPO: https://github.com/anomalyQC/mylist
 # UPDATED: 2022-11-03
-# TOTAL: 23
+# TOTAL: 24
 payload:
   - DOMAIN-KEYWORD,rutracker
   - DOMAIN-KEYWORD,rutor
@@ -27,4 +27,4 @@ payload:
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN-SUFFIX,t-ru.org
   - DOMAIN-SUFFIX,flibusta.net
-
+  - DOMAIN-SUFFIX,linkedin.com
