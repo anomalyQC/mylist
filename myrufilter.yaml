@@ -27,5 +27,6 @@ payload:
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN-SUFFIX,t-ru.org
   - DOMAIN-SUFFIX,flibusta.is
+  - IP-CIDR,179.43.150.83
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,play.google.com
