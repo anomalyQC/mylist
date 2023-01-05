@@ -2,7 +2,7 @@
 # AUTHOR: anomalyqc
 # REPO: https://github.com/anomalyQC/mylist
 # UPDATED: 2023-01-05
-# TOTAL: 26
+# TOTAL: 27
 payload:
   - DOMAIN-KEYWORD,rutracker
   - DOMAIN-KEYWORD,rutor
@@ -10,6 +10,7 @@ payload:
   - DOMAIN-KEYWORD,kinozal
   - DOMAIN-KEYWORD,lordfilm
   - DOMAIN-KEYWORD,flibusta
+  - DOMAIN-KEYWORD,pornolab
   - DOMAIN-SUFFIX,nnmclub.to
   - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,rarbggo.to
