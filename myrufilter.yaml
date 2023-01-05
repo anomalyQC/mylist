@@ -1,8 +1,8 @@
 # NAME: myrufilter
 # AUTHOR: anomalyqc
 # REPO: https://github.com/anomalyQC/mylist
-# UPDATED: 2022-11-03
-# TOTAL: 25
+# UPDATED: 2023-01-05
+# TOTAL: 26
 payload:
   - DOMAIN-KEYWORD,rutracker
   - DOMAIN-KEYWORD,rutor
@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,xhamster.com
   - DOMAIN-SUFFIX,xhamsterlive.com
   - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,rule34.paheal.net
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN-SUFFIX,t-ru.org
